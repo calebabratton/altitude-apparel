@@ -37,7 +37,7 @@ Once the project moves into development, the press release can be used as a touc
   "When you're looking to expand your wardrobe with the hippest clothing around, we not only have the inventory but have made the process both easy & fun!" - Caleb Bratton, David Harbin, Mikka Tully
 
 ## How to Get Started ##
-  1. Navigate to the webapp
+  1. Navigate to the web-app
   2. Find your favorite piece of apparel
     * View available size, style & style-specific pictures
   3. Review the product-specific questions/answers
